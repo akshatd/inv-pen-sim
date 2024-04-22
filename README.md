@@ -1,2 +1,3 @@
-# inv-pend-sim
-Inverted Pendulum imulation with reaction wheels simulation
+# inv-pen-sim
+
+Reaction wheel stabilized upright pen (inverted pendulum) simulation
